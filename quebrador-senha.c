@@ -1,5 +1,3 @@
-#include "biblioteca.h"
-#include "quebrador-senha.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
